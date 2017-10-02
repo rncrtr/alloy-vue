@@ -1,6 +1,9 @@
 # slashdinner-vue
 
-> Front End for Wifey's Meals App
+> Front End Vue App
+
+## Additions
+- Bulma CSS Framework
 
 ## Build Setup
 

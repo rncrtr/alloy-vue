@@ -1,7 +1,7 @@
 {
-  "name": "slashdinner-vue",
+  "name": "alloy-vue",
   "version": "1.0.0",
-  "description": "Front End for Wifey's Meals App",
+  "description": "Front End Vue app",
   "author": "Ryan Carter",
   "private": true,
   "scripts": {
