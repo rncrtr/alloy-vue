@@ -1,4 +1,4 @@
-# slashdinner-vue
+# alloy-vue
 
 > Front End Vue App
 
